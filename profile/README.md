@@ -1,2 +1,2 @@
 # Welcome to Arcware's GitHub Organization
-![Arcware - Smart IT Architecture Solutions](Arcware-logo.png)
+![Arcware - Smart IT Architecture Solutions](profile/Arcware-logo.png)
