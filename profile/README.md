@@ -3,5 +3,5 @@
   <img alt="Arcware - Smart IT Architecture Solutions" align="left" src="profile/Arcware-logo.png">
 </a>
 <p style="font-family: futura; font-size:24pt; font-style:italic">
-    Why did we use these specific parameters during the calculation of the fingerprints?
+We are specialized in the development of easily adaptable and extendable IT architectures and tools. We use model-based and generative approaches adopting professinal open source technologies and frameworks.
 </p>
