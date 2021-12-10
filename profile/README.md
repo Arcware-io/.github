@@ -1,2 +1,2 @@
-# Welcome - Willkommen - Benvenuti - Bienvenu - Bienvenidos - 歡迎 - ようこそ
+# Welcome - Willkommen - Benvenuti - Bienvenu - Bienvenidos
 ![Arcware - Smart IT Architecture Solutions](profile/Arcware-logo.png)
