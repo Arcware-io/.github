@@ -4,5 +4,5 @@
 </a>
 
 <h3>
-We are specialized in the development of easily adaptable and extendable IT architectures and tools. We use model-based and generative approaches adopting professinal open source technologies and frameworks.
+We are specialized in the development of easily adaptable and extendable IT architectures and tools. We use model-based and generative approaches adopting professinal open source technologies and frameworks. Most repos of this organization are private.
 </h3>
